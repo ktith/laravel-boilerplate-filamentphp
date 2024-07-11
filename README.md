@@ -1,6 +1,8 @@
 ## Laravel boilerplate with filamentphp
 
-Feature
+### Feature
 - User auth + 2FA
 - Logviewer + Telegram notifier
-- 
+
+### Credit
+- Filament
